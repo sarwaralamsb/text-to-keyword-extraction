@@ -27,5 +27,5 @@ cd text-to-keyword-extraction
 pip install -r requirements.txt
 
 # Run the Streamlit app
-streamlit run app.py
+streamlit run app.py/python -m streamlit run keyword_generator_app.py
 
