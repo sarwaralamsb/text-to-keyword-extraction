@@ -17,14 +17,15 @@ To run this app, you need to have the following installed:
     - `sklearn`
 
 ### Installation
-1. Clone the repository:
-   git clone https://github.com/your-username/text-to-keyword-extraction.git
+# Clone the repository
+git clone https://github.com/your-username/text-to-keyword-extraction.git
 
-2. Navigate to the project directory:
-   cd text-to-keyword-extraction
+# Navigate to the project directory
+cd text-to-keyword-extraction
 
-3.Install the required dependencies:
-   pip install -r requirements.txt
+# Install the required dependencies
+pip install -r requirements.txt
 
-4. Run the Streamlit app:
-   streamlit run app.py / python -m streamlit run keyword_generator_app.py
+# Run the Streamlit app
+streamlit run app.py
+
