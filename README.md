@@ -8,7 +8,7 @@ This is a Python-based web application that extracts keywords from a given text 
 - **User-Friendly Interface**: Simple and clean UI built with Streamlit.
 - **Stopwords Removal**: Automatically removes common stopwords (e.g., "is", "and", "the") from the text to focus on more meaningful words.
 
-![App Screenshot](images/screenshot1.png)
+![App Screenshot](screenshot1.png)
 
 
 ### Requirements
