@@ -21,7 +21,7 @@ To run this app, you need to have the following installed:
 
 ### Installation
 ### Clone the repository
-git clone https://github.com/your-username/text-to-keyword-extraction.git
+git clone https://github.com/sarwaralamsb/text-to-keyword-extraction.git
 
 ### Navigate to the project directory
 cd text-to-keyword-extraction
